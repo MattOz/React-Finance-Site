@@ -37,39 +37,39 @@ const Footer = () => {
       </div>
       <div className="lg:col-span-2 flex justify-between mt-6">
         <div>
-          <h6 className="font-medium text-gray-400">Solutions</h6>
+          <h6 className="font-medium text-gray-400">Services</h6>
           <ul>
-            <li className="py-2 text-sm hover:text-[#00df9a]">Analytics</li>
-            <li className="py-2 text-sm hover:text-[#00df9a]">Marketing</li>
-            <li className="py-2 text-sm hover:text-[#00df9a]">Commerce</li>
-            <li className="py-2 text-sm hover:text-[#00df9a]">Insights</li>
+            <li className="py-2 text-sm hover:text-[#00df9a]">Website Design</li>
+            <li className="py-2 text-sm hover:text-[#00df9a]">Front End Frameworks</li>
+            <li className="py-2 text-sm hover:text-[#00df9a]">UI/UX Consulting</li>
+            <li className="py-2 text-sm hover:text-[#00df9a]">Performance Optimization</li>
           </ul>
         </div>
         <div>
-          <h6 className="font-medium text-gray-400">Support</h6>
+          <h6 className="font-medium text-gray-400">Development</h6>
           <ul>
-            <li className="py-2 text-sm hover:text-[#00df9a]">Pricing</li>
-            <li className="py-2 text-sm hover:text-[#00df9a]">Documentation</li>
-            <li className="py-2 text-sm hover:text-[#00df9a]">Guides</li>
-            <li className="py-2 text-sm hover:text-[#00df9a]">API Status</li>
+            <li className="py-2 text-sm hover:text-[#00df9a]">JavaScript Development</li>
+            <li className="py-2 text-sm hover:text-[#00df9a]">HTML/CSS Development</li>
+            <li className="py-2 text-sm hover:text-[#00df9a]">Responsive Web Design</li>
+            <li className="py-2 text-sm hover:text-[#00df9a]">Cross-Browser Compatibility</li>
           </ul>
         </div>
         <div>
-          <h6 className="font-medium text-gray-400">Company</h6>
+          <h6 className="font-medium text-gray-400">Projects</h6>
           <ul>
-            <li className="py-2 text-sm hover:text-[#00df9a]">About</li>
-            <li className="py-2 text-sm hover:text-[#00df9a]">Blog</li>
-            <li className="py-2 text-sm hover:text-[#00df9a]">Jobs</li>
-            <li className="py-2 text-sm hover:text-[#00df9a]">Press</li>
-            <li className="py-2 text-sm hover:text-[#00df9a]">Careers</li>
+            <li className="py-2 text-sm hover:text-[#00df9a]">Gamer's Circuit</li>
+            <li className="py-2 text-sm hover:text-[#00df9a]">Chicago HotSpot</li>
+            <li className="py-2 text-sm hover:text-[#00df9a]">React Admin Dashboard</li>
+            <li className="py-2 text-sm hover:text-[#00df9a]">Pupify</li>
+            <li className="py-2 text-sm hover:text-[#00df9a]">Weather Dashboard</li>
           </ul>
         </div>
         <div>
-          <h6 className="font-medium text-gray-400">Legal</h6>
+          <h6 className="font-medium text-gray-400">Sample Sites</h6>
           <ul>
-            <li className="py-2 text-sm hover:text-[#00df9a]">Claim</li>
-            <li className="py-2 text-sm hover:text-[#00df9a]">Policy</li>
-            <li className="py-2 text-sm hover:text-[#00df9a]">Terms</li>
+            <li className="py-2 text-sm hover:text-[#00df9a]">Site 1</li>
+            <li className="py-2 text-sm hover:text-[#00df9a]">Site 2</li>
+            <li className="py-2 text-sm hover:text-[#00df9a]">Site 3</li>
           </ul>
         </div>
       </div>
