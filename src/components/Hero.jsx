@@ -27,7 +27,7 @@ const Hero = () => {
         Welcome to my portfolio, where creativity and functionality converge to deliver exceptional user experiences through innovative front-end development.
         </p>
         <button className="bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black hover:bg-white">
-          Get Started
+          Find Out More
         </button>
       </div>
     </div>
